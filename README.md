@@ -9,3 +9,6 @@ This repository is for learning and experimenting with the Base network.
 - Learn the basics of Base
 - Explore Base Sepolia
 - Build simple onchain applications
+## About Base
+
+Base is an Ethereum Layer 2 network designed to make onchain applications faster and more affordable.
