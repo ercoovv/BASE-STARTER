@@ -15,3 +15,7 @@ Base is an Ethereum Layer 2 network designed to make onchain applications faster
 ## Base Sepolia
 
 Base Sepolia is the test network used for experimenting with Base applications before using the main network.
+## Network Information
+
+- Base Mainnet Chain ID: 8453
+- Base Sepolia Chain ID: 84532
