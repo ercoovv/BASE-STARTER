@@ -22,3 +22,10 @@ Base Sepolia is the test network used for experimenting with Base applications b
 ## Project Purpose
 
 This project is created as a learning environment for understanding Base, wallets, smart contracts and onchain development.
+## Roadmap
+
+- Learn Base fundamentals
+- Connect a wallet
+- Explore Base Sepolia
+- Deploy a simple smart contract
+- Build a basic onchain application
