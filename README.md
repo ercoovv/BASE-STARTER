@@ -19,3 +19,6 @@ Base Sepolia is the test network used for experimenting with Base applications b
 
 - Base Mainnet Chain ID: 8453
 - Base Sepolia Chain ID: 84532
+## Project Purpose
+
+This project is created as a learning environment for understanding Base, wallets, smart contracts and onchain development.
